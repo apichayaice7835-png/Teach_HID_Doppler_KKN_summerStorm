@@ -1,0 +1,17 @@
+arm_pyart>=2.0
+cartopy
+netCDF4
+xarray
+geopandas
+pyproj
+shapely
+rasterio
+metpy
+cmweather
+scikit-learn
+matplotlib
+numpy
+scipy
+pandas
+# PyTDA (NB3, NB6) ต้อง compile ด้วย Cython:
+#   pip install --no-build-isolation git+https://github.com/nasa/PyTDA.git
